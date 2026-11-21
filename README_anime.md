@@ -100,6 +100,6 @@ Then choose **Run All**. The cells depend on each other, so run them from top to
 Python 3 · pandas · NumPy · matplotlib · openpyxl · Jupyter Notebook · Git and GitHub
 
 ## Author
-Kapees Walia
-2026B01010955
+Ishant Singh
+2026B01010341
 CSE 7
